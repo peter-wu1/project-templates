@@ -1,5 +1,3 @@
 {
-    "year": 2021,
-    "location": "San Diego",
-    "group": "Students"
+    "files": "test/testdata/fake_twitter.txt"
 }
